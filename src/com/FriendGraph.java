@@ -1,4 +1,4 @@
-package Hw0;
+package com;
 
 
 class FriendGraph{

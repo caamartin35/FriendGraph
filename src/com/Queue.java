@@ -1,4 +1,4 @@
-package Hw0;
+package com;
 
 
 //a queue object to make BFS easier

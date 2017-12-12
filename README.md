@@ -1,5 +1,5 @@
 # FriendGraph
 A graph representing people and their friends in a social network
 
-* Import .project file into intelliJ
+* Open root directory in IntelliJ
 * Execute 'Run FriendGraph' run configuration
